@@ -1,6 +1,6 @@
 # Singularity Gephi: The Open Graph Viz Platform
 
-[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/798)
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/999)
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -104,7 +104,7 @@ $ singularity run --app gephi gephi.0.9.2.simg --nosplash
 
 **Gephi Desktop UI**: (using X11)
 
-<img width="80%" alt="Gephi Desktop UI" src="https://user-images.githubusercontent.com/5332509/39847302-d693f426-53ce-11e8-95cd-9a5e387456fc.png">
+<img width="80%" alt="Gephi Desktop UI" src="https://user-images.githubusercontent.com/5332509/39847709-f57c9ad0-53d0-11e8-8159-ffc66d0adf27.png">
 
 
 ## Contributing
